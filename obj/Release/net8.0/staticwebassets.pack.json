@@ -1,0 +1,257 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\icon-add-to-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-add-to-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\icon-carbon-neutral.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-carbon-neutral.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\icon-decrement-quantity.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-decrement-quantity.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\icon-increment-quantity.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-increment-quantity.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\icon-order-confirmed.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-order-confirmed.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\icon-remove-item.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\icon-remove-item.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\illustration-empty-cart.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\illustration-empty-cart.svg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-baklava-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-baklava-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-baklava-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-baklava-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-baklava-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-baklava-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-baklava-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-baklava-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-brownie-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-brownie-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-brownie-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-brownie-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-brownie-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-brownie-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-brownie-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-brownie-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-cake-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-cake-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-cake-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-cake-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-cake-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-cake-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-cake-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-cake-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-creme-brulee-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-creme-brulee-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-creme-brulee-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-creme-brulee-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-creme-brulee-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-creme-brulee-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-creme-brulee-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-creme-brulee-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-macaron-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-macaron-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-macaron-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-macaron-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-macaron-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-macaron-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-macaron-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-macaron-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-meringue-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-meringue-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-meringue-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-meringue-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-meringue-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-meringue-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-meringue-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-meringue-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-panna-cotta-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-panna-cotta-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-panna-cotta-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-panna-cotta-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-panna-cotta-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-panna-cotta-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-panna-cotta-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-panna-cotta-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-tiramisu-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-tiramisu-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-tiramisu-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-tiramisu-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-tiramisu-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-tiramisu-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-tiramisu-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-tiramisu-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-waffle-desktop.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-waffle-desktop.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-waffle-mobile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-waffle-mobile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-waffle-tablet.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-waffle-tablet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\assets\\images\\image-waffle-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\image-waffle-thumbnail.jpg"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\css\\main.5c7de4e5.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.5c7de4e5.css"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\css\\main.5c7de4e5.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.5c7de4e5.css.map"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\js\\453.ac24cff8.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\453.ac24cff8.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\js\\453.ac24cff8.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\453.ac24cff8.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\js\\main.631d55d8.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.631d55d8.js"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\js\\main.631d55d8.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\static\\js\\main.631d55d8.js.LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\js\\main.631d55d8.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.631d55d8.js.map"
+    },
+    {
+      "Id": "C:\\Users\\supri\\source\\repos\\DessertsApi\\DessertsApi\\wwwroot\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+      "PackagePath": "staticwebassets\\static\\media\\logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.DessertsApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.DessertsApi.props",
+      "PackagePath": "build\\DessertsApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DessertsApi.props",
+      "PackagePath": "buildMultiTargeting\\DessertsApi.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.DessertsApi.props",
+      "PackagePath": "buildTransitive\\DessertsApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
