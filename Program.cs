@@ -48,4 +48,10 @@ app.UseStaticFiles();
 
 app.MapFallbackToFile("index.html");
 
+using (var scope = app.Services.CreateScope())
+{
+    var db = scope.ServiceProvider.GetRequiredService<AppDbContext>();
+    db.Database.Migrate();  // This applies any pending migrations and creates tables
+}
+
 app.Run();
