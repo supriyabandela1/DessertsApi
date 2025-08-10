@@ -58,15 +58,15 @@ using (var scope = app.Services.CreateScope())
     if (!db.Products.Any())
     {
         db.Products.AddRange(
-            new Product { Id = 1, Name = "Waffle with Berries", Category = "Waffle", Price = 6.50m, ThumbnailUrl = "./assets/images/image-waffle-thumbnail.jpg" },
-            new Product { Id = 2, Name = "Vanilla Bean Crème Brûlée", Category = "Crème Brûlée", Price = 7.00m, ThumbnailUrl = "./assets/images/image-creme-brulee-thumbnail.jpg" },
-            new Product { Id = 3, Name = "Macaron Mix of Five", Category = "Macaron", Price = 8.00m, ThumbnailUrl = "./assets/images/image-macaron-thumbnail.jpg" },
-            new Product { Id = 4, Name = "Classic Tiramisu", Category = "Tiramisu", Price = 5.50m, ThumbnailUrl = "./assets/images/image-tiramisu-thumbnail.jpg" },
-            new Product { Id = 5, Name = "Pistachio Baklava", Category = "Baklava", Price = 4.00m, ThumbnailUrl = "./assets/images/image-baklava-thumbnail.jpg" },
-            new Product { Id = 6, Name = "Lemon Meringue Pie", Category = "Pie", Price = 5.00m, ThumbnailUrl = "./assets/images/image-meringue-thumbnail.jpg" },
-            new Product { Id = 7, Name = "Red Velvet Cake", Category = "Cake", Price = 4.50m, ThumbnailUrl = "./assets/images/image-cake-thumbnail.jpg" },
-            new Product { Id = 8, Name = "Salted Caramel Brownie", Category = "Brownie", Price = 4.50m, ThumbnailUrl = "./assets/images/image-brownie-thumbnail.jpg" },
-            new Product { Id = 9, Name = "Vanilla Panna Cotta", Category = "Panna Cotta", Price = 6.50m, ThumbnailUrl = "./assets/images/image-panna-cotta-thumbnail.jpg" }
+            new Product { id = 1, name = "Waffle with Berries", price = 6.50m, imageUrl = "./assets/images/image-waffle-thumbnail.jpg" },
+            new Product { id = 2, name = "Vanilla Bean Crème Brûlée", price = 7.00m, imageUrl = "./assets/images/image-creme-brulee-thumbnail.jpg" },
+            new Product { id = 3, name = "Macaron Mix of Five", price = 8.00m, imageUrl = "./assets/images/image-macaron-thumbnail.jpg" },
+            new Product { id = 4, name = "Classic Tiramisu",  price = 5.50m, imageUrl = "./assets/images/image-tiramisu-thumbnail.jpg" },
+            new Product { id = 5, name = "Pistachio Baklava", price = 4.00m, imageUrl = "./assets/images/image-baklava-thumbnail.jpg" },
+            new Product { id = 6, name = "Lemon Meringue Pie", price = 5.00m, imageUrl = "./assets/images/image-meringue-thumbnail.jpg" },
+            new Product { id = 7, name = "Red Velvet Cake", price = 4.50m, imageUrl = "./assets/images/image-cake-thumbnail.jpg" },
+            new Product { id = 8, name = "Salted Caramel Brownie", price = 4.50m, imageUrl = "./assets/images/image-brownie-thumbnail.jpg" },
+            new Product { id = 9, name = "Vanilla Panna Cotta", price = 6.50m, imageUrl = "./assets/images/image-panna-cotta-thumbnail.jpg" }
         );
         db.SaveChanges();
     }
