@@ -1,5 +1,6 @@
 using DessertsApi.Data;
 using Microsoft.EntityFrameworkCore;
+using DessertsApi.Models;
 
 var builder = WebApplication.CreateBuilder(args);
 
