@@ -2,7 +2,7 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
 # Copy csproj and restore dependencies
-COPY ["DessertsApi/DessertsApi/DessertsApi.csproj", "DessertsApi/"]
+COPY ["DessertsApi/DessertsApi.csproj", "DessertsApi/"]
 RUN dotnet restore "DessertsApi/DessertsApi.csproj"
 
 # Copy the rest of the code
